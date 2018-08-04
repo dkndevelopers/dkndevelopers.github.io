@@ -8,6 +8,18 @@ background: url("eight%20pic.jpg") no-repeat center center fixed;
     
 }
 
+media only screen and (max-width: 480px) 
+
+{ 
+max-width:100%;
+   height:auto;
+   overflow:hidden;
+
+
+}
+
+
+
 
 
 h1{
@@ -129,6 +141,7 @@ p4{
     margin-left: 95px;
     font-size:30px;
 }
+
 
 
 
